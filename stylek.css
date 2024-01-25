@@ -1,0 +1,25 @@
+.icon{
+	height: 5em;
+	width:5em;
+  }
+*{
+	margin: 0%;
+	padding:0%;
+
+   }
+  .icon-box{
+	background:transparent;
+	margin: 13px ;
+	padding-left: 15px;
+	height: 2.5em;
+   
+}
+
+nav a{
+	font-size: 14.8px;
+	padding: 20px;
+	vertical-align: auto;
+	color: black;
+	
+  
+}
